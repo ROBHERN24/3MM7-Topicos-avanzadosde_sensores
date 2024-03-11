@@ -3,3 +3,4 @@
 ## Integrantes del equipo
 - Juan Pablo Gracia Zepeda
 - Roberto Alfredo Hernández Mendoza
+- Ich Mata Trillo
